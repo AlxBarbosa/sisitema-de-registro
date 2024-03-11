@@ -6,3 +6,4 @@ para ejecutar el sistema debes poner:
 
 
 ¨¨¨¨rpm installreact¨¨
+sistema de registro 2
